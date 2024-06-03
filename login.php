@@ -16,7 +16,7 @@ body {
   width: 100%;
   height: 100%;
   font-family: "Roboto", sans-serif;
-  background-color: #9c27b0;
+  background-color: white;
   overflow: hidden;
 }
 
@@ -40,7 +40,7 @@ body {
   width: 600px;
   margin: 30px auto 0;
   height: 320px;
-  background-color: #c06bcf;
+  background-color: black;
   top: 50%;
   margin-top: -160px;
   -moz-transition: all 0.5s;
@@ -61,7 +61,7 @@ body {
   position: absolute;
   left: 152px;
   top: 50px;
-  background-color: #9c27b0;
+  background-color: gray;
   transform: rotateX(52deg) rotateY(15deg) rotateZ(-38deg);
   width: 300px;
   height: 285px;
@@ -88,7 +88,7 @@ body {
   margin: 0 auto;
   width: 80px;
   color: #fff;
-  background-color: #9c27b0 ;
+  background-color: gray ;
   opacity: 1;
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
@@ -310,7 +310,7 @@ div {
             <div class="table">
 	    <div class="table-cell">
 
-            <h2 style="text-align: center; color: #aa06f9; font-weight: bold;">Login</h2>
+            <h2 style="text-align: center; color: gray; font-weight: bold;">Login</h2>
 		    <form method="POST">
 	                <input name="Username" placeholder="Nome" type="text" required/>
         	        <input name="Password" placeholder="Senha" type="Password" required/>
@@ -343,6 +343,7 @@ div {
         </div>
     </div>
     </div>
+    
 
     <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script><script  src="./includes/js/script.js"></script>
 
