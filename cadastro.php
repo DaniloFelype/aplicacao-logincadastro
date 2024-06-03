@@ -296,11 +296,9 @@ div {
             <div class="table">
             <div class="table-cell">
                 <p>
-                Você não tem uma conta?
+                Você já tem uma conta?
                 </p>
-                <div class="btn">
-                Cadastrar
-                </div>
+                <p>Volte e entre na página "Login"</p>
             </div>
             </div>
         </div>
@@ -310,7 +308,7 @@ div {
             <div class="table">
 	    <div class="table-cell">
 
-            <h2 style="text-align: center; color: gray; font-weight: bold;">Login</h2>
+            <h2 style="text-align: center; color: gray; font-weight: bold;">Cadastro</h2>
 		    <form method="POST">
 	                <input name="Username" placeholder="Nome" type="text" required/>
         	        <input name="Password" placeholder="Senha" type="Password" required/>
