@@ -298,9 +298,7 @@ div {
                 <p>
                 Você não tem uma conta?
                 </p>
-                <div class="btn">
-                Cadastrar
-                </div>
+                <p>Volte e entre na página "Cadastro"</p>
             </div>
             </div>
         </div>
