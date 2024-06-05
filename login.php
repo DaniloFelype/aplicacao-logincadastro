@@ -4,6 +4,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, inicial-scale=1.0"/>
   <title>Login</title>
     <link rel="stylesheet" href="cover.css">
     <style>
