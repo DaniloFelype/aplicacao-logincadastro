@@ -10,9 +10,15 @@ Bem-vindo ao repositório do ``Projeto do Dalinin``. Este projeto foi desenvolvi
 # Estrutura do Projeto
 ``index.php:`` Esta é a página inicial do projeto que exibe uma interface simples com um cabeçalho, um corpo principal e um rodapé. Inclui links para as páginas de login e cadastro.
 
+![pagina principal](img/pgprincipal.png)
+
 ``login.php:`` Esta página permite que usuários registrados façam login no sistema. Inclui campos de entrada para nome de usuário e senha.
 
+![pagina principal](img/pglogin.png)
+
 ``cadastro.php:`` Esta página permite que novos usuários se registrem no sistema. Inclui campos para inserir email, nome, sobrenome, nome de usuário e senha.
+
+![pagina principal](img/pgcadastro.png)
 
 # <span> **Tecnologias utilizadas** </span>
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
