@@ -274,6 +274,7 @@ div {
 
 </head>
 <body>
+    <!-- futuramente será adicionada responsividade ao projeto -->
 
     <div class="container">
     <div class="box"></div>
